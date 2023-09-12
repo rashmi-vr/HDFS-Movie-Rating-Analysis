@@ -1,0 +1,19 @@
+action	army of darkness 	5.0
+adventure	army of darkness 	5.0
+animation	wallace  gromit the wrong trousers 	5.0
+children	christmas story a 	5.0
+comedy	annie hall 	5.0
+crime	wallace  gromit the wrong trousers 	5.0
+documentary	bowling for columbine 	4.0
+drama	bridge on the river kwai the 	5.0
+fantasy	army of darkness 	5.0
+film-noir	chinatown 	4.55
+horror	army of darkness 	5.0
+imax	interstellar 	5.0
+musical	sound of music the 	5.0
+mystery	rear window 	4.61
+romance	annie hall 	5.0
+sci-fi	deadpool 	5.0
+thriller	rear window 	4.61
+war	bridge on the river kwai the 	5.0
+western	good the bad and the ugly the buono il brutto il cattivo il 	4.47

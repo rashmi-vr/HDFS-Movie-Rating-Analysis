@@ -1,0 +1,5 @@
+387	Kickboxer 	Action	1989	2.5
+599	Lionheart 	Action	1990	0.5
+599	Tornado! 	Action	1996	2
+599	Steel 	Action	1997	1
+217	Steel 	Action	1997	3

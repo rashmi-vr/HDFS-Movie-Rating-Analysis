@@ -1,0 +1,19 @@
+action	army of darkness 	5.0
+adventure	army of darkness 	5.0
+animation	wallace  gromit the wrong trousers 	4.53
+children	wallace  gromit the wrong trousers 	4.53
+comedy	army of darkness 	5.0
+crime	wallace  gromit the wrong trousers 	4.53
+documentary	bowling for columbine 	4.0
+drama	life is beautiful la vita è bella 	4.66
+fantasy	army of darkness 	5.0
+film-noir	la confidential 	4.41
+horror	army of darkness 	5.0
+imax	interstellar 	5.0
+musical	south park bigger longer and uncut 	4.46
+mystery	inception 	4.51
+romance	life is beautiful la vita è bella 	4.66
+sci-fi	interstellar 	5.0
+thriller	inception 	4.51
+war	life is beautiful la vita è bella 	4.66
+western	tombstone 	4.42

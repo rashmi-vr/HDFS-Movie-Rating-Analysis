@@ -5,6 +5,7 @@ The following is a brief description of the gathered dataset before moving on to
 • A scale of 1 to 5 is used as a rating.
 • The gathered dataset includes movies released between 1902 and 2018.
 The analysis has been carried out using the MapReduce design, which divides the data into smaller portions and performs parallel processing. The partial aggregation of the mapper output has been carried out using a combiner in addition to the mapper and reducer, making it more effective and minimising computational costs. The following is an explanation of the data processing pipeline,
+
 STEP 1: Mapper
 
 STEP 2: Combiner
